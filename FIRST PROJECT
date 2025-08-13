@@ -1,0 +1,63 @@
+<html>
+<head>
+    <header>
+       <marquee> WELCOME TO MY WEBSITE GUYS </marquee>
+    </header>
+    <h1>
+        INFORMATION TECNOLOGY
+    </h1>
+        <h2>
+            1.SYSTEM MANANGEMENT<br>
+            2.TECHNICAL SUPPORT<br>
+            3.DATA SECURITY<br>
+            4.NETWORK MANANGEMENT<br>
+            5.SOFTWARE DEVELOPEMENT<br>
+        </h2>
+        <style>
+            h1{
+                text-align: center;
+            }
+            h2{
+                text-align: center;
+            }
+            h3{
+                color: rgb(220, 31, 28);
+            }
+            p{
+                color: rgb(24, 9, 230);
+            }
+            p1{
+                color: rgb(86, 9, 230);
+            }
+            p2{
+                color: rgb(49, 9, 230);
+            }
+            p3{
+                color: rgb(16, 5, 229);
+            }
+            p4{
+                color: rgb(24, 9, 230);
+            }
+
+        </style>
+    <body>
+        Let we see about it department some key points
+        <h3>
+            1.SYSTEM MANANGEMENT
+        </h3>
+        <p>Installs and maintains computers,servers,and networks
+            manages softwares and hardwares</p>
+            <h3> 2.TECHNICAL SUPPORT</h3>
+            <p1> Helps users fix problems (email issues,system errors,connectivity)</p1>
+                    <h3> 3.DATA SECURITY </h3>
+                    <P2> Projects systems from viruses,hackers,and data leaks
+                         Implements firewalls and security protocols</P2>
+                        <h3> 4.NETWORK MANANGEMENT</h3>
+                        <P3> Ensures the smooth data network internet,intranet,extranet and for data tranfers</P3>
+                            <h3>5.SOFTWARE MANANGEMENT</h3>
+                            <p4>Develop and internal tool and apps</p4>
+    </body>
+</head>
+</html>
+
+            
